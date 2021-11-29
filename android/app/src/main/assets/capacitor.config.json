@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "noticias",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
